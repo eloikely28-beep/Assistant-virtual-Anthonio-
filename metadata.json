@@ -1,0 +1,8 @@
+{
+  "name": "Anthonio Randrianaivo - Assistant Virtuel Professionnel",
+  "description": "Services d'assistance virtuelle professionnelle pour entrepreneurs et entreprises : recherche, gestion Excel, gestion d'emails et admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
